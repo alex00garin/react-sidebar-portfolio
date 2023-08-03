@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/alex00garin/react-sidebar-portfolio/static/css/main.555bc7b0.css",
-    "main.js": "/alex00garin/react-sidebar-portfolio/static/js/main.26395974.js",
-    "static/js/651.8676ef22.chunk.js": "/alex00garin/react-sidebar-portfolio/static/js/651.8676ef22.chunk.js",
-    "index.html": "/alex00garin/react-sidebar-portfolio/index.html",
-    "main.555bc7b0.css.map": "/alex00garin/react-sidebar-portfolio/static/css/main.555bc7b0.css.map",
-    "main.26395974.js.map": "/alex00garin/react-sidebar-portfolio/static/js/main.26395974.js.map",
-    "651.8676ef22.chunk.js.map": "/alex00garin/react-sidebar-portfolio/static/js/651.8676ef22.chunk.js.map"
+    "main.css": "/react-sidebar-portfolio/static/css/main.555bc7b0.css",
+    "main.js": "/react-sidebar-portfolio/static/js/main.97fe1e98.js",
+    "static/js/651.8676ef22.chunk.js": "/react-sidebar-portfolio/static/js/651.8676ef22.chunk.js",
+    "index.html": "/react-sidebar-portfolio/index.html",
+    "main.555bc7b0.css.map": "/react-sidebar-portfolio/static/css/main.555bc7b0.css.map",
+    "main.97fe1e98.js.map": "/react-sidebar-portfolio/static/js/main.97fe1e98.js.map",
+    "651.8676ef22.chunk.js.map": "/react-sidebar-portfolio/static/js/651.8676ef22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.555bc7b0.css",
-    "static/js/main.26395974.js"
+    "static/js/main.97fe1e98.js"
   ]
 }
